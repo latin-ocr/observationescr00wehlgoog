@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationescr00wehlgoog/observationescr00wehlgoog_0003.png"; bbox 0 0 3542 5292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 691 1407 899">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 691 1407 899">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 691 1407 899; baseline 0 -31"><span class='ocrx_word' id='word_1_1' title='bbox 242 764 248 777; x_wconf 89' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 315 691 969 899; x_wconf 66' lang='lat' dir='ltr'><strong>OBSERVATIONES</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1036 762 1407 868; x_wconf 73' lang='lat' dir='ltr'><strong>ORITIOAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 394 1019 1326 1209">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 394 1019 1326 1223">
+     <span class='ocr_line' id='line_1_2' title="bbox 394 1019 1326 1209; baseline 0.004 -4"><span class='ocrx_word' id='word_1_4' title='bbox 394 1039 401 1086; x_wconf 79' lang='lat'><strong>⁷</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 566 1105 651 1209; x_wconf 84' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_6' title='bbox 685 1072 1166 1209; x_wconf 72' lang='lat' dir='ltr'>&#39;PETRONIVM</span> <span class='ocrx_word' id='word_1_7' title='bbox 1299 1019 1326 1097; x_wconf 71' lang='lat'>⁵</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 597 2503 1241 2630">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 597 2503 1241 2630">
+     <span class='ocr_line' id='line_1_3' title="bbox 597 2503 1241 2630; baseline -0.011 -39"><span class='ocrx_word' id='word_1_8' title='bbox 597 2504 899 2592; x_wconf 66' lang='lat' dir='ltr'>GVILELMVS</span> <span class='ocrx_word' id='word_1_9' title='bbox 929 2503 1124 2630; x_wconf 54' lang='lat' dir='ltr'>[vam</span> <span class='ocrx_word' id='word_1_10' title='bbox 1235 2616 1241 2625; x_wconf 80' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1776 5292">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1776 5292">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1776 5292; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1776 5292; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
